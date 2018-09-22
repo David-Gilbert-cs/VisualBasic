@@ -1,0 +1,15 @@
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\Math.vbproj.GenerateResource.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\Math.vbproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\mathApp.exe.config
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\mathApp.exe
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\mathApp.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\mathApp.xml
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\mathApp.areaCalculator.resources
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\mathApp.mainPage.resources
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\mathApp.Resources.resources
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\mathApp.exe
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\mathApp.xml
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\mathApp.pdb
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\Math.vbprojAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\mathApp.autoClicker.resources
+C:\Users\David\Documents\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\mathApp.holdClicker.resources
